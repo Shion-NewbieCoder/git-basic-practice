@@ -1,0 +1,2 @@
+ghi chu bai tap git
+da hoc them ve commit
